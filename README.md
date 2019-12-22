@@ -1,4 +1,4 @@
-# social-media-group
+# social-Network-APP
 ## Overview:
 This social media APP is python APP for a group of people, in form of a social graph.Each person has one or more connections to groups.
 Dataset of persons provided in (data.json) file and represents databse for group of people.
